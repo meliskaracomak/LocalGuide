@@ -1,0 +1,17 @@
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.csprojAssemblyReference.cache
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Form1.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Properties.Resources.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.csproj.GenerateResource.cache
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\bin\Debug\TravelGuide.exe.config
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\bin\Debug\TravelGuide.exe
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\bin\Debug\TravelGuide.pdb
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.exe
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.pdb
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Form2.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Adiyaman.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Batman.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Diyarbakır.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Gaziantep.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Mardin.resources
+C:\Users\melis\source\repos\TravelGuide\TravelGuide\obj\Debug\TravelGuide.Sanliurfa.resources
